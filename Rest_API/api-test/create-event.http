@@ -1,0 +1,9 @@
+PUT  http://localhost:8080/events/4
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QzQGV4YW1wbGUuY29tIiwiZXhwIjoxNzMzMjkyNjU5LCJ1c2VySWQiOjN9.EQNAHtB9MAShUZIv1aCiOX2qt7QWE1uim4-6w_D_i2U
+
+{
+    "name": "Not test event more",
+    "description": "A test event",
+    "location": "A new location",
+    "dateTime": "2025-01-01T15:30:00Z"
+}
